@@ -1,0 +1,4 @@
+[submodule "mpv/scripts/trakt-scrobble"]
+  path = mpv/scripts/trakt-scrobble
+  url = https://github.com/dyphire/trakt-scrobble.git
+

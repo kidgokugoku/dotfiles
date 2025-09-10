@@ -1,0 +1,7 @@
+_cache
+..git
+.DS_Store
+cache
+memo-history.log
+trakt_config.json
+trakt_history.json
